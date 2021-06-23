@@ -3,7 +3,7 @@ Algoritmo "catego_lutador condicional SE "
 // Professor    :Anderson
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Gabriela da silva silva
-// Data atual  : 20/06/21
+// Data atual  : 23/06/21
 Var
 peso:real
 Inicio

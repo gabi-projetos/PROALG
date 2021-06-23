@@ -3,7 +3,7 @@ Algoritmo "Aumento de salario condicional SE"
 // Professor    :Anderson
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Gabriela da silva silverio
-// Data atual  : 20/06/2021
+// Data atual  : 23/06/2021
 Var
 // Seção de Declarações das variáveis 
 salario,resp: real
